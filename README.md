@@ -11,7 +11,7 @@
 
 我的笔记库：https://www.yuque.com/alipayil0rlw8uh4/lizhi
 
-最好的学习网站： https://t.zsxq.com/0d7oUS1t8(前大厂程序员鱼皮🐟 成立星球一年 成员已经达到了1.7w 是国内最大的编程网站！！！)
+最好的学习网站： https://t.zsxq.com/0d7oUS1t8   (前大厂程序员鱼皮🐟 成立星球一年 成员已经达到了1.7w 是国内最大的编程网站！！！)
 
 ## 除此之外代码库中有以下完整项目：
 
