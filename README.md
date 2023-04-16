@@ -5,4 +5,22 @@
 
 
 
+## 个人介绍👨
+
+一名科班的普本程序员，目前在寻找实习中
+
+为了符合开源的社区规范、以下也是我的个人的一些笔记的记录！
+
+下面是我的个人博客网站：https://juejin.cn/user/1420997038194350
+
+我的语雀：https://www.yuque.com/alipayil0rlw8uh4/lizhi
+
+最好的学习网站：
+
+
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizhe-0423&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizhe-0423&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
