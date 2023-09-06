@@ -17,18 +17,18 @@
 ## 除此之外代码库中有以下完整项目：
 
 1. https://github.com/lizhe-0423/api-backend  (api平台后端 构建了一个api中台 用户可以在此调用想要的API服务！)
+   
+
+3. https://github.com/lizhe-0423/yubi-backend     （智能BI项目 --利用AI来帮我们分析图表信息~）
 
 
-2. https://github.com/lizhe-0423/user-center-backend  (用户中心后端、最适合新手学习的企业级项目，里面包含了完整的用户功能和登录功能)
+4. https://github.com/lizhe-0423/user-center-backend  (用户中心后端、最适合新手学习的企业级项目，里面包含了完整的用户功能和登录功能)
 
 
-3. https://github.com/lizhe-0423/satoken-springboot-init  (初始化平台、引入sa-token登录鉴权、hutool 等三方工具库、 引入了多个中间件的初始化)
+5. https://github.com/lizhe-0423/satoken-springboot-init  (初始化平台、引入sa-token登录鉴权、hutool 等三方工具库、 引入了多个中间件的初始化)
 
-4. https://github.com/lizhe-0423/yubi-backend     （智能BI项目 --利用AI来帮我们分析图表信息~）
+
 
 ## 如果想要联系作者📞：
 
 1. 我的邮箱地址: 2318691019@qq.com
-2. 个人微信号: GNS-0423-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizhe-0423&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)      __________  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizhe-0423&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
