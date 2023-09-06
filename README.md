@@ -19,7 +19,7 @@
 1. https://github.com/lizhe-0423/api-backend  (api平台后端 构建了一个api中台 用户可以在此调用想要的API服务！)
    
 
-3. https://github.com/lizhe-0423/yubi-backend     （智能BI项目 --利用AI来帮我们分析图表信息~）
+3. https://github.com/lizhe-0423/AIGC-BI-backend     （智能BI项目 --利用AI来帮我们分析图表信息~）
 
 
 4. https://github.com/lizhe-0423/user-center-backend  (用户中心后端、最适合新手学习的企业级项目，里面包含了完整的用户功能和登录功能)
