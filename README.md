@@ -7,28 +7,28 @@
 
 为了符合开源的社区规范、以下也是我的个人的一些笔记的记录！
 
-下面是我的博客记录：https://juejin.cn/user/1420997038194350
+- 下面是我的博客记录：https://juejin.cn/user/1420997038194350
 
-我的笔记库：https://www.yuque.com/alipayil0rlw8uh4/lizhi （目前已不是会员，关于笔记可看上面！）
+- 我的笔记库：https://www.yuque.com/alipayil0rlw8uh4/lizhi （目前已不是会员，关于笔记可看上面！）
 
-最好的学习网站： https://t.zsxq.com/0d7oUS1t8   
+- 最好的学习网站： https://t.zsxq.com/0d7oUS1t8   
 前大厂程序员鱼皮🐟 成立星球一年 成员已经达到了1.7w 是国内最大的编程网站！！！
 
 ## 除此之外代码库中有以下完整项目
 
-1. https://github.com/lizhe-0423/api-backend  (api平台后端 构建了一个api中台 用户可以在此调用想要的API服务！)
+- https://github.com/lizhe-0423/api-backend  (api平台后端 构建了一个api中台 用户可以在此调用想要的API服务！)
    
 
-3. https://github.com/lizhe-0423/AIGC-BI-backend     （智能BI项目 --利用AI来帮我们分析图表信息~）
+- https://github.com/lizhe-0423/AIGC-BI-backend     （智能BI项目 --利用AI来帮我们分析图表信息~）
 
 
-4. https://github.com/lizhe-0423/user-center-backend  (用户中心后端、最适合新手学习的企业级项目，里面包含了完整的用户功能和登录功能)
+- https://github.com/lizhe-0423/user-center-backend  (用户中心后端、最适合新手学习的企业级项目，里面包含了完整的用户功能和登录功能)
 
 
-5. https://github.com/lizhe-0423/satoken-springboot-init  (初始化平台、引入sa-token登录鉴权、hutool 等三方工具库、 引入了多个中间件的初始化)
+-  https://github.com/lizhe-0423/satoken-springboot-init  (初始化平台、引入sa-token登录鉴权、hutool 等三方工具库、 引入了多个中间件的初始化)
 
 
 
 ## 如果想要联系作者📞
 
-1. 我的邮箱地址: 2318691019@qq.com
+- 我的邮箱地址: 2318691019@qq.com
