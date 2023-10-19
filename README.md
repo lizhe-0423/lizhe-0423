@@ -3,7 +3,7 @@
 
 ## 个人介绍
 
-目前离校准备秋招中
+道阻且长 行则将至！
 
 为了符合开源的社区规范、以下也是我的个人的一些笔记的记录！
 
@@ -13,6 +13,13 @@
 
 - 最好的学习网站： https://t.zsxq.com/0d7oUS1t8   
 前大厂程序员鱼皮🐟 成立星球一年 成员已经达到了1.7w 是国内最大的编程网站！！！
+
+## 目前在做的事情
+- https://github.com/lizhe-0423/lizhi
+  一个关于api 和 bi 融合的项目 基础功能已开发完成 当前进度：星火大模型接入  by date 2023/10/19
+
+- http://github.com/lizhe-0423/Qlit-CampusConnection
+  为母校编写的博客开发项目 已搁浅 后续有时间会写完此项目 by date 2023/3/10
 
 ## 除此之外代码库中有以下完整项目
 
@@ -25,10 +32,14 @@
 - https://github.com/lizhe-0423/user-center-backend  (用户中心后端、最适合新手学习的企业级项目，里面包含了完整的用户功能和登录功能)
 
 
--  https://github.com/lizhe-0423/satoken-springboot-init  (初始化平台、引入sa-token登录鉴权、hutool 等三方工具库、 引入了多个中间件的初始化)
+-  https://github.com/lizhe-0423/satoken-springboot-init  (SpringBoot初始化模板、引入sa-token登录鉴权、hutool 等三方工具库、 引入了多个中间件的初始化)
 
 
+-  https://github.com/lizhe-0423/tiktok （大二寒假参加字节跳动训练营 仿tiktok实战）
 
-## 如果想要联系作者📞
+
+-  https://github.com/sky-take-out (学习网课 -苍穹外卖项目)
+
+## 如果想要联系作者
 
 - 我的邮箱地址: 2318691019@qq.com
