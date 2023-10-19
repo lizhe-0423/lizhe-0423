@@ -16,9 +16,11 @@
 
 ## 目前在做的事情
 - https://github.com/lizhe-0423/lizhi
+  
   一个关于api 和 bi 融合的项目 基础功能已开发完成 当前进度：星火大模型接入  by date 2023/10/19
 
 - http://github.com/lizhe-0423/Qlit-CampusConnection
+
   为母校编写的博客开发项目 已搁浅 后续有时间会写完此项目 by date 2023/3/10
 
 ## 除此之外代码库中有以下完整项目
