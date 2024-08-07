@@ -11,7 +11,6 @@
 ## 个人博客与笔记
 
 - 博客记录：[https://juejin.cn/user/1420997038194350](https://juejin.cn/user/1420997038194350)
-- 笔记库：[https://www.yuque.com/alipayil0rlw8uh4/lizhi](https://www.yuque.com/alipayil0rlw8uh4/lizhi) （目前非会员，更多笔记见上方博客）
 
 ## 最好的学习网站
 
@@ -19,41 +18,12 @@
 
 前大厂程序员鱼皮成立星球一年，成员已达 1.7 万，是国内最大的编程网站！
 
-## 目前在进行的项目
-
-### 1. [https://github.com/lizhe-0423/lizhi](https://github.com/lizhe-0423/lizhi)
-
-一个 API 和 BI 融合的项目，基础功能已开发完成，当前进度：星火大模型接入（截止 2023/10/19）
-
-### 2. [http://github.com/lizhe-0423/Qlit-CampusConnection](http://github.com/lizhe-0423/Qlit-CampusConnection)
-
-为母校编写的博客开发项目，已搁浅，后续有时间会完成（截止 2023/3/10）
-
 ## 完整项目代码库
-
-### 1. [https://github.com/lizhe-0423/api-backend](https://github.com/lizhe-0423/api-backend)
-
-API 平台后端，构建了一个 API 中台，用户可在此调用所需的 API 服务！
-
-### 2. [https://github.com/lizhe-0423/AIGC-BI-backend](https://github.com/lizhe-0423/AIGC-BI-backend)
-
-智能 BI 项目，利用 AI 分析图表信息
-
-### 3. [https://github.com/lizhe-0423/user-center-backend](https://github.com/lizhe-0423/user-center-backend)
-
-用户中心后端，适合新手学习的企业级项目，包含完整的用户和登录功能
-
-### 4. [https://github.com/lizhe-0423/satoken-springboot-init](https://github.com/lizhe-0423/satoken-springboot-init)
-
-Spring Boot 初始化模板，引入 sa-token 登录鉴权、hutool 等三方工具库和多个中间件的初始化
 
 ### 5. [https://github.com/lizhe-0423/tiktok](https://github.com/lizhe-0423/tiktok)
 
 大二寒假参加字节跳动训练营的仿 TikTok 实战项目
 
-### 6. [https://github.com/sky-take-out](https://github.com/sky-take-out)
-
-学习网课时的苍穹外卖项目
 
 ## 联系我
 
