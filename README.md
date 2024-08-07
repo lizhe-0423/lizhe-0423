@@ -6,7 +6,6 @@
 
 道阻且长，行则将至！
 
-我是荔枝，一名热爱编程的大三在校学生，希望能与大家共同进步！
 
 ## 个人博客与笔记
 
@@ -14,19 +13,15 @@
 
 ## 知识社区
 
-[https://t.zsxq.com/0d7oUS1t8](https://t.zsxq.com/0d7oUS1t8)
-
-编程导航共建者,校园宣传大使！
+- 编程导航共建者,校园宣传大使！[https://t.zsxq.com/0d7oUS1t8](https://t.zsxq.com/0d7oUS1t8)
 
 ## 完整项目代码库
 
-###  [https://github.com/lizhe-0423/tiktok](https://github.com/lizhe-0423/tiktok)
-
-大二寒假参加字节跳动训练营的仿 TikTok 实战项目
+- 大二寒假参加字节跳动X稀土掘金 [https://github.com/lizhe-0423/tiktok](https://github.com/lizhe-0423/tiktok)
 
 
 ## 联系我
 
 - 邮箱：2318691019@qq.com
 
-[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=lizhe-0423)](https://github.com/IceEnd)
+   [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=lizhe-0423)](https://github.com/IceEnd)
