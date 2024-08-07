@@ -20,7 +20,7 @@
 
 ## 完整项目代码库
 
-### 5. [https://github.com/lizhe-0423/tiktok](https://github.com/lizhe-0423/tiktok)
+###  [https://github.com/lizhe-0423/tiktok](https://github.com/lizhe-0423/tiktok)
 
 大二寒假参加字节跳动训练营的仿 TikTok 实战项目
 
