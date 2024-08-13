@@ -1,6 +1,6 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </a> </h1>
-<a href="https://github.com/luoye6/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=luoye6&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+<h1 align="center"> <a href="https://github.com/lizhe-0423"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </a> </h1>
+<a href="https://github.com/lizhe-0423">
+    <img align="right" src="https://komarev.com/ghpvc/?username=lizhe-0423&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
 ## Hi, 👋  I'm <a href="https://www.code-nav.cn/user/1624602326562050049/post">蓝莓</a>
