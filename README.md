@@ -3,9 +3,9 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=luoye6&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
-## Hi, 👋  I'm <a href="https://luoye6.github.io/">蓝莓</a>
+## Hi, 👋  I'm <a href="https://www.code-nav.cn/user/1624602326562050049/post">蓝莓</a>
  
-<details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://luoye6.github.io/" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+<details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://www.code-nav.cn/user/1624602326562050049/post" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
 <!--my introduction start-->
 1) 勤奋
@@ -31,7 +31,7 @@
 </p>
  
 <p align="center">
-  <a href= "http://xxx.xiaobaitiao.club/project/weixin.png" target="_blank" alt="WeChat" title="WeChat">
+  <a href= "https://pic.imge.cc/2024/08/13/66baeff228bd5.jpg" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
@@ -40,35 +40,32 @@
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
   </a>
   &emsp;
-  <a href= "https://luoye6.github.io/" target="_blank" alt="个人博客" title="个人博客">
+  <a href= "https://juejin.cn/user/1420997038194350" target="_blank" alt="个人博客" title="个人博客">
     <img src="https://img1.baidu.com/it/u=975844215,1172636629&fm=253&fmt=auto?w=800&h=800" width="28px"/>
   </a>
   &emsp;
-      <a href="https://blog.csdn.net/qq_67358181?type=blog" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
-  &emsp;
-    <a href="https://leetcode.cn/u/luo-xie-wu-qing/">
+     
+    <a href="https://leetcode.cn/u/ping-an-ew/">
 <img src="https://leetcode.com/favicon-32x32.png" alt="leetcode" width="30" height="30"/>
   </a>
     &emsp;
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/luoye6">
-    <img src="https://badges.strrl.dev/visits/luoye6/luoye6?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/lizhe-0423">
+    <img src="https://badges.strrl.dev/visits/lizhe-0423/lizhe-0423?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/luoye6">
-    <img src="https://badges.strrl.dev/years/luoye6?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/lizhe-0423">
+    <img src="https://badges.strrl.dev/years/lizhe-0423?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/luoye6?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/luoye6?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/lizhe-0423?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/lizhe-0423?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/luoye6">
-    <img src="https://badges.strrl.dev/gists/luoye6?style=flat-square&color=black&logo=github">
+  <a href="https://gist.github.com/lizhe-0423">
+    <img src="https://badges.strrl.dev/gists/lizhe-0423?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/luoye6">
-    <img src="https://badges.strrl.dev/commits/monthly/luoye6?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/lizhe-0423">
+    <img src="https://badges.strrl.dev/commits/monthly/lizhe-0423?style=flat-square&color=black&logo=github">
   </a>
 </p>
  
