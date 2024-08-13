@@ -45,7 +45,7 @@
   </a>
   &emsp;
      
-    <a href="https://leetcode.cn/u/ping-an-ew/">
+<a href="https://leetcode.cn/u/ping-an-ew/">
 <img src="https://leetcode.com/favicon-32x32.png" alt="leetcode" width="30" height="30"/>
   </a>
     &emsp;
