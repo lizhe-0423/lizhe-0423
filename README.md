@@ -14,7 +14,7 @@
 ---
 </details>
   
-  ✨ 双非24届，目前就职江苏一家物联网企业，全网博客浏览量15w+，喜欢编程，动画和剪辑。该站存放本人的一些代码程序，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题，喜欢把项目进行拓展和开源，研究AIGC和GPT调用问题。
+  ✨Shuangnon 24th, currently working in an Internet of Things company in Jiangsu, with 15w+ blog views on the whole network, like programming, animation and editing. The site stores some of my own code programs, and records my own caprice by the way. You are welcome to discuss technical issues with me, and I like to expand and open source the project, and study AIGC and GPT invocation issues.
  
  
 <!--my introduction end -->
