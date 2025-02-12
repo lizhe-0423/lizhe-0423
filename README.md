@@ -29,12 +29,12 @@
 💡 **当前状态 / Current Status**  
 - 📍 居住地：苏州  
 - 🎂 年龄：23岁  
-- 💼 职业：就职于Top.1室内外定位物联网公司 身份：JAVA软件开发  
+- 💼 职业：就职于Top.1室内外定位物联网公司  😊身份：JAVA软件开发  
 - 🛠 技术栈：Spring全家桶、MySQL、Redis、MongoDB、Kafka、RocketMQ等  
 
 📚 **兴趣爱好 / Hobbies**  
 - 编程 💻 目前在研究Dubbo源码及如何基于Netty、Disruptor打造高性能网关相关方面知识。  
-- AIGC：通过Ollama自主搭建过deepseek-R1模型，擅长GPT API调用，使用过前沿AI编程工具如Cursor、Trae。  
+- AIGC：AWS 生成式 AI 社区成员、通过Ollama自主搭建过deepseek-R1模型，擅长GPT API调用，使用过前沿AI编程工具如Cursor、Trae。  
 - 开源贡献 🌐 解决Spire.Doc频繁生成文档OOM。提交过字节跳动CloudWeGo社区issue并采纳（[Issue #561](https://github.com/cloudwego/hertz/issues/561)）。  
 
 </details>
