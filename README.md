@@ -34,8 +34,8 @@
 
 📚 **兴趣爱好 / Hobbies**  
 - 编程 💻 目前在研究Dubbo源码及如何基于Netty、Disruptor打造高性能网关相关方面知识。  
-- AIGC：AWS 生成式 AI 社区成员、通过Ollama自主搭建过deepseek-R1模型，擅长GPT API调用，使用过前沿AI编程工具如Cursor、Trae。  
-- 开源贡献 🌐 解决Spire.Doc频繁生成文档OOM。提交过字节跳动CloudWeGo社区issue并采纳（[Issue #561](https://github.com/cloudwego/hertz/issues/561)）。  
+- AIGC：AWS 生成式 AI 社区成员、通过Ollama自主搭建过deepseek-R1模型，擅长GPT API调用，使用过前沿AI编程工具如Cursor、Trae。 于2025-4-9日参加Trae「超级体验官」获得掘金颁发《深度体验奖》 
+- 开源贡献 🌐 解决Spire.Doc频繁生成文档OOM。提交过字节跳动CloudWeGo社区issue并采纳（[Issue #561](https://github.com/cloudwego/hertz/issues/561)）。  目前加入AutoMQ 成为一名开源贡献者
 
 </details>
 
