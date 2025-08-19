@@ -58,17 +58,11 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://space.bilibili.com/259188222?spm_id_from=333.934.0.0" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
-  </a>
-  &emsp;
+  
   <a href="https://juejin.cn/user/1420997038194350" target="_blank" alt="个人博客" title="个人博客">
     <img src="https://img1.baidu.com/it/u=975844215,1172636629&fm=253&fmt=auto?w=800&h=800" width="28px"/>
   </a>
-  &emsp;
-  <a href="https://leetcode.cn/u/ping-an-ew/">
-    <img src="https://leetcode.com/favicon-32x32.png" alt="LeetCode" width="30" height="30"/>
-  </a>
+ 
 </p>
 
 ---
