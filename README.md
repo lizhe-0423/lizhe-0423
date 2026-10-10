@@ -48,18 +48,6 @@
 
 **🌱 Timeline**
 
-<!-- TIMELINE_IMAGE_START -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.gif">
-    <img src="assets/timeline-light.gif" alt="Blueberry timeline tree: 2026 AI Agent, 2025 AI Education, 2024 IoT, 2023 internships and awards, 2022 started coding" width="600">
-  </picture>
-</p>
-<!-- TIMELINE_IMAGE_END -->
-
-<details>
-<summary><b>Timeline Details · Latest First</b></summary>
-
 - **2026.09** · 🚀 入职当前公司，从事企业 AI 应用与 Agent 开发。
 - **2025.12** · 🎉 全网累计粉丝突破 **400+**。
 - **2025.11** · 🤖 入职济南启焰烽科，从事后端研发与 AI 教育产品开发。
@@ -74,8 +62,6 @@
 - **2022.11** · 🥉 获移动互联网创新创业大赛 **三等奖**。
 - **2022.10** · 🏅 获第 20 届省级软件设计大赛 **二等奖**。
 - **2022** · 📚 大二开始学习编程，加入学校计算机社团。
-
-</details>
 
 ✍️ 在 [掘金](https://juejin.cn/user/1420997038194350)持续记录技术学习、项目实践与工程思考，欢迎交流 AI Agent、全栈开发与 AI Infra。
 
