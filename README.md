@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://github.com/lizhe-0423"><img src="https://komarev.com/ghpvc/?username=lizhe-0423&amp;label=Profile+Views&amp;color=7c6ce7&amp;style=flat" alt="GitHub Profile Views"></a>
   <a href="https://juejin.cn/user/1420997038194350"><img src="https://img.shields.io/badge/Juejin-技术分享-1E80FF?style=flat&amp;logo=juejin&amp;logoColor=white" alt="Juejin · Blog"></a>
+  <a href="mailto:lizhi.wzy@gmail.com"><img src="https://img.shields.io/badge/Gmail-lizhi.wzy%40gmail.com-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email · lizhi.wzy@gmail.com"></a>
 </p>
 
 <details open>
@@ -17,7 +18,6 @@
 
 - 🧑‍💻 **Work** · 在 AI 初创公司从事企业 AI 平台与 Agent 应用的研发与交付。
 - 🧭 **Learning** · 最近在学习 **AI Infra** 相关技术栈。
-- ✍️ **Writing** · 在 [掘金](https://juejin.cn/user/1420997038194350)分享技术学习、项目实践与工程思考。
 
 **🛠 Tech**
 
@@ -121,17 +121,7 @@
 
 ---
 
-### 📬 Contact
-
-<p align="center">
-  📧 <a href="mailto:lizhi.wzy@gmail.com"><b>lizhi.wzy@gmail.com</b></a><br>
-  ✍️ <a href="https://juejin.cn/user/1420997038194350"><b>Juejin · Blog</b></a>
-  &nbsp; · &nbsp;
-  💻 <a href="https://github.com/lizhe-0423"><b>GitHub · Projects</b></a>
-</p>
-
----
-
 <p align="center"><em>Talk is cheap. Show me the code.</em></p>
 
 <!-- Technology icons: https://github.com/tandpfun/skill-icons (MIT); https://github.com/tandpfun/skill-icons/blob/main/LICENSE. -->
+
