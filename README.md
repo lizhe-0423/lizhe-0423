@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lizhe-0423"><img src="https://komarev.com/ghpvc/?username=lizhe-0423&amp;label=Profile+Views&amp;color=7c6ce7&amp;style=flat&amp;abbreviated=true" alt="GitHub Profile Views"></a>
+  <a href="https://github.com/lizhe-0423"><img src="https://hits.sh/github.com/lizhe-0423.svg?label=Profile%20Views&amp;color=7c6ce7&amp;labelColor=555&amp;extraCount=732" alt="GitHub Profile Views"></a>
   <a href="https://juejin.cn/user/1420997038194350"><img src="https://img.shields.io/badge/Juejin-技术分享-1E80FF?style=flat&amp;logo=juejin&amp;logoColor=white" alt="Juejin · Blog"></a>
   <a href="mailto:lizhi.wzy@gmail.com"><img src="https://img.shields.io/badge/Gmail-lizhi.wzy%40gmail.com-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email · lizhi.wzy@gmail.com"></a>
 </p>
