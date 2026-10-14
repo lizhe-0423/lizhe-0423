@@ -53,9 +53,10 @@
 
 **🧪 Public Projects**
 
+- <img src="assets/projects/ai-engineering-handbook.png" alt="AI Engineering Handbook icon" width="22" height="22"> [**ai-engineering-handbook**](https://github.com/lizhe-0423/ai-engineering-handbook) · Practical notes on AI education, enterprise AI platforms, Agent engineering and AI Infra.
 - 🧠 [**ai-knowledge**](https://github.com/lizhe-0423/ai-knowledge) · Spring AI + pgvector RAG practice with document ingestion, vector retrieval and streaming Q&A.
 - 🤖 [**Easy-RAG**](https://github.com/lizhe-0423/Easy-RAG) · LangChain4j + Vue AI assistant practice with RAG, conversation memory and tool calling.
-- 🎬 [**tiktok**](https://github.com/lizhe-0423/tiktok) · A distributed video service built with Go, Kitex, Hertz and GORM during the 5th ByteDance Youth Training Camp.
+- <img src="assets/projects/tiktok.png" alt="Distributed video service icon" width="22" height="22"> [**tiktok**](https://github.com/lizhe-0423/tiktok) · A distributed video service built with Go, Kitex, Hertz and GORM during the 5th ByteDance Youth Training Camp.
 
   
 ---
