@@ -57,19 +57,7 @@
 - 🤖 [**Easy-RAG**](https://github.com/lizhe-0423/Easy-RAG) · LangChain4j + Vue AI assistant practice with RAG, conversation memory and tool calling.
 - 🎬 [**tiktok**](https://github.com/lizhe-0423/tiktok) · A distributed video service built with Go, Kitex, Hertz and GORM during the 5th ByteDance Youth Training Camp.
 
-**💼 Product Experience**
-
-- 👨‍🏫 [**名师智能体**](https://ai.teacheronhand.com/) · Full-stack development for teacher digital twins and course agents.
-- 🧑‍🏫 [**师道 FDE**](https://teacheronhand.com/) · A teacher-focused FDE training program.
-- 📝 [**师大网校 App**](https://www.sdshengben.net/app) · Development of subject Q&A, photo-based question search and AI homework grading.
-
-<sub>以上为曾任职公司的公开产品页面，个人参与范围以各项描述为准。</sub>
-
-**📚 Currently Learning**
-
-- 🧠 [**ai-agent-book**](https://github.com/lizhe-0423/ai-agent-book) · 正在阅读《深入理解 AI Agent：设计原理与工程实践》（Fork）。
-- ⚙️ [**ai-infra-book**](https://github.com/lizhe-0423/ai-infra-book) · 正在阅读《深入理解 AI Infra：量化分析与系统设计》（Fork）。
-
+  
 ---
 
 ### 🌱 Timeline
