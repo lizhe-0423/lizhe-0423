@@ -53,10 +53,10 @@
 
 **🧪 Public Projects**
 
-- <img src="assets/projects/ai-engineering-handbook.png" alt="AI Engineering Handbook icon" width="22" height="22"> [**ai-engineering-handbook**](https://github.com/lizhe-0423/ai-engineering-handbook) · Practical notes on AI education, enterprise AI platforms, Agent engineering and AI Infra.
+<img src="assets/projects/ai-engineering-handbook.png" alt="AI Engineering Handbook icon" width="22" height="22"> [**ai-engineering-handbook**](https://github.com/lizhe-0423/ai-engineering-handbook) · Practical notes on AI education, enterprise AI platforms, Agent engineering and AI Infra.
 
   
-- <img src="assets/projects/tiktok.png" alt="Distributed video service icon" width="22" height="22"> [**tiktok**](https://github.com/lizhe-0423/tiktok) · A distributed video service built with Go, Kitex, Hertz and GORM during the 5th ByteDance Youth Training Camp.
+<img src="assets/projects/tiktok.png" alt="Distributed video service icon" width="22" height="22"> [**tiktok**](https://github.com/lizhe-0423/tiktok) · A distributed video service built with Go, Kitex, Hertz and GORM during the 5th ByteDance Youth Training Camp.
 
   
 ---
